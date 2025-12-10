@@ -1,0 +1,2 @@
+# 🎵 Spotify Music Analytics — End-to-End Data Project
+This project is an end-to-end data pipeline built using Python, SQL, Power BI, and ETL techniques to analyze trends in Spotify music such as artist popularity, track performance, genre influence, album types, and yearly release patterns. The goal is to uncover meaningful insights that support playlist curation, artist promotion, and content strategy.
