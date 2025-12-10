@@ -42,7 +42,7 @@ This project analyzes Spotify data to support **data-driven decision making** fo
 ### ✔ Extract
 Raw Spotify track dataset loaded into Python.
 
- **✔ Transform**
+## **✔ Transform**
 
 Removed missing values
 
