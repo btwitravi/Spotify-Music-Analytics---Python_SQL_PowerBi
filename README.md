@@ -7,8 +7,8 @@ This project is an **end-to-end data pipeline** built using **Python, SQL, Power
 | `Spotify.csv` | Dataset |
 | `Spotify.ipynb` | ETL + EDA Notebook (.ipynb) |
 | `Spotify.pdf` | Cleaned EDA Report (PDF) |
-| `Spotify.pbix` | Power BI Dashboard (.pbix) | 
-| `Spotify.png` | Dashboard Screenshots |
+| `Spotify_Dashboard.pbix` | Power BI Dashboard (.pbix) | 
+| `Spotify_Dashboard.png` | Dashboard Screenshots |
 | `Spotify_Problem.docx` | Business Problem Statement (DOCX)| 
 
 ## 🧩 1. Business Problem
@@ -98,7 +98,7 @@ The dashboard includes:
 - Album type distribution
 - Year-wise music release trends
 - Interactive filters and search
-![Dashboard](images/Spotify.png)
+![Dashboard](Spotify_Dashboard.png)
 
 ## 🏁 8. Conclusion
 This project demonstrates a complete **data analytics workflow**, from ETL to EDA to dashboard creation. The insights reveal how artist influence, genre preferences, and release patterns shape Spotify’s listening landscape. The project improves understanding of music trends and provides a foundation for recommendation engines, marketing strategies, and user engagement models.
