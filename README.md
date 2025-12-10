@@ -37,3 +37,25 @@ This project analyzes Spotify data to support **data-driven decision making** fo
 | Visualization   | Power BI                                    |
 | Data Processing | ETL pipeline, Feature Engineering           |
 | Documentation   | Jupyter Notebook, PDF, DOCX                 |
+
+## 🔄 4. ETL Process
+### ✔ Extract
+Raw Spotify track dataset loaded into Python.
+
+ **✔ Transform**
+
+Removed missing values
+
+Converted timestamp formats
+
+Converted duration (ms → minutes)
+
+Cleaned genre fields
+
+Formatted album release dates
+
+Added new features (e.g., track_duration_min, release_year)
+
+✔ Load
+
+Final cleaned dataset exported and stored in MySQL for analysis.
